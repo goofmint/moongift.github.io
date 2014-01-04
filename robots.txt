@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://moongift.github.io/sitemap.xml 

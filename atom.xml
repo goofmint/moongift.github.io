@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://moongift.github.io/atom.xml" rel="self"/>
+  <link href="http://moongift.github.io/"/>
+  <updated>2014-01-04T16:33:38+09:00</updated>
+  <id>http://moongift.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[最初の投稿]]></title>
+    <link href="http://moongift.github.io/blog/2014/01/04/first-post/"/>
+    <updated>2014-01-04T16:30:49+09:00</updated>
+    <id>http://moongift.github.io/blog/2014/01/04/first-post</id>
+    <content type="html"><![CDATA[<p>これは最初の投稿です。</p>
+
+<p>GitHubでブログをはじめます。</p>
+]]></content>
+  </entry>
+  
+</feed>
