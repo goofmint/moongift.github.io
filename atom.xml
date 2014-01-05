@@ -4,7 +4,7 @@
   <title><![CDATA[MOONGIFT BLOG]]></title>
   <link href="http://moongift.github.io/atom.xml" rel="self"/>
   <link href="http://moongift.github.io/"/>
-  <updated>2014-01-05T23:25:27+09:00</updated>
+  <updated>2014-01-05T23:30:09+09:00</updated>
   <id>http://moongift.github.io/</id>
   <author>
     <name><![CDATA[中津川篤司]]></name>
@@ -29,6 +29,21 @@
 <h1>特別な記事</h1>
 
 <p>一気に10,000文字くらい書き上げた…疲れた…</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[1月4日の仕事]]></title>
+    <link href="http://moongift.github.io/blog/2014/01/04/0104-works/"/>
+    <updated>2014-01-04T23:27:06+09:00</updated>
+    <id>http://moongift.github.io/blog/2014/01/04/0104-works</id>
+    <content type="html"><![CDATA[<h1>ソフトウェア紹介記事執筆</h1>
+
+<p>電車に乗りつつ3つくらいは書いたはず。2,500文字くらい？</p>
+
+<h1>Mobile Touch用のソフトウェア紹介記事</h1>
+
+<p>半分できていたのを仕上げてアップ。手作業でやるのがそろそろしんどくなってきたのでアップローダーを書き上げる。投稿者が自分になってしまうのが難点だけど作業効率は大幅にアップしたと思う。今後が楽しみ！</p>
 ]]></content>
   </entry>
   
